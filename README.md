@@ -1,5 +1,5 @@
 # Data
 
-QMDiab_metabolomics_Preprocessed.xlsx - [source](https://figshare.com/articles/dataset/Qatar_Metabolomics_Study_on_Diabetes/5904022?file=10531342)
+COVID19_proteomics.xlsx - (processed) [original source](https://data.mendeley.com/datasets/tzydswhhb5/5)
 
-S1.3_proteomics.xlsx - (processed) [original source](https://data.mendeley.com/datasets/tzydswhhb5/5)
+diabetes_metabolomics_plasma.xlsx, diabetes_metabolomics_saliva.xlsx, diabetes_metabolomics_urine.xlsx - (processed) [original source](https://figshare.com/articles/dataset/Qatar_Metabolomics_Study_on_Diabetes/5904022?file=10531342)
