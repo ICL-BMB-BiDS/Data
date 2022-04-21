@@ -6,3 +6,5 @@ diabetes_metabolomics_plasma.xlsx, diabetes_metabolomics_saliva.xlsx, diabetes_m
 
 IBD_microbiome_genus.xlsx, IBD_microbiome_species.xlsx, cancer_microbiome_genus.xlsx, cancer_microbiome_species.xlsx, cirrhosis_microbiome_genus.xlsx, cirrhosis_microbiome_species.xlsx, diabetes_microbiome_genus.xlsx, diabetes_microbiome_species.xlsx, obesity_microbiome_genus.xlsx, obesity_microbiome_species.xlsx - processed from [original source](https://github.com/SegataLab/metaml/tree/master/data) (based on [this paper](https://doi.org/10.1371/journal.pcbi.1004977))
 
+ovariancancer_transcriptomics_enzymemapped.xlsx, ovariancancer_transcriptomics_genemapped.xlsx - processed from [original source](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-6691/files/)
+
